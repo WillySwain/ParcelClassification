@@ -4,7 +4,7 @@
 #### 2. Run all of the cells in order and a ResNet50 model will be trained on the data in the startingdata directory.
 <br>
 If you would like to start with new uncleaned data, delete startingdata, uncomment all of the crawl calls, and run the first cell. 
-<br>
+<br><br>
 Code in ParcelClassification by William Swain
 <br>
 Data cleaning by Helen Zhu, William Swain, and Zain Mirza
