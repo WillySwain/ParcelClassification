@@ -1,8 +1,8 @@
 # ParcelClassification
 ## How to run
-### For ResNet50:
+### For ResNet50 and VGG19:
 #### 1. Make sure the badpackages and goodpackages directories are empty in data/split data 
-#### 2. Run all of the cells in order and a ResNet50 model will be trained on the data in the startingdata directory.
+#### 2. Run all of the cells in order and a ResNet50 and VGG19 model will be trained on the data in the startingdata directory.
 
 ### For YOLOv5:
 #### 1. Clone the official model from https://github.com/ultralytics/yolov5
