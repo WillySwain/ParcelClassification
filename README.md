@@ -19,6 +19,6 @@ Code in ParcelClassification.ipynb by William Swain
 <br>
 Code in Vision_Transformer.ipynb by Zain Mirza 
 <br>
-Code in yolov5 folder by Helen Zhu
+Labels in datasets folder and code in yolov5 folder by Helen Zhu
 <br>
 Data cleaning by Helen Zhu, William Swain, and Zain Mirza
