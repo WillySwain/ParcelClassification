@@ -6,11 +6,12 @@
 
 ### For YOLOv5:
 #### 1. Clone the official model from https://github.com/ultralytics/yolov5
-#### 2. Go to the yolov5 folder in this repository, run yolovt.finetune.ipynb file and get the new model. 
-#### 3. Place the new model in the cloned yolov5 folder. 
-#### 4. Place package.yaml file from this repository to the cloned yolov5/data folder.
-#### 5. Replace the train.py in the cloned yolov5 folder with the new train.py in this repository.
-#### 6. Run the following command: python train.py --data data/package.yaml --cfg models/yolov5s.yaml --weights new_yolov5s.pt --batch-size 8
+#### 2. Go to the yolov5 folder in this repository, run yolov5.finetune.ipynb file and get the new model. 
+#### 3. Place the new model in the cloned official yolov5 folder. 
+#### 4. Place package.yaml file from this repository to the cloned official yolov5/data folder.
+#### 5. Replace the train.py in the cloned official yolov5 folder with the new train.py in this repository.
+#### 6. Download the datasets folder including images and labels, and place it in the same level as the cloned official yolov5 folder.
+#### 7. Run the following command: python train.py --data data/package.yaml --cfg models/yolov5s.yaml --weights new_yolov5s.pt --batch-size 8
 <br>
 If you would like to start with new uncleaned data, delete startingdata, uncomment all of the crawl calls, and run the first cell. 
 <br><br>
