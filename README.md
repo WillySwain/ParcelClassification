@@ -15,7 +15,9 @@
 If you would like to start with new uncleaned data, delete startingdata, uncomment all of the crawl calls, and run the first cell. 
 <br><br>
 Code in ParcelClassification.ipynb by William Swain
+<br>
 Code in Vision_Transformer.ipynb by Zain Mirza 
+<br>
 Code in yolov5 folder by Helen Zhu
 <br>
 Data cleaning by Helen Zhu, William Swain, and Zain Mirza
