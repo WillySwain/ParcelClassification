@@ -12,6 +12,9 @@
 #### 5. Replace the train.py in the cloned official yolov5 folder with the new train.py in this repository.
 #### 6. Download the datasets folder including images and labels, and place it in the same level as the cloned official yolov5 folder.
 #### 7. Run the following command: python train.py --data data/package.yaml --cfg models/yolov5s.yaml --weights new_yolov5s.pt --batch-size 8
+
+### For Vision Transformer:
+#### 1. No special steps required, simply run all the python notebook cells and everything should work
 <br>
 If you would like to start with new uncleaned data, delete startingdata, uncomment all of the crawl calls, and run the first cell. 
 <br><br>
