@@ -21,7 +21,7 @@
 <br>
 If you would like to start with new uncleaned data, delete startingdata, uncomment all of the crawl calls, and run the first cell. 
 <br><br>
-Code in ParcelClassification.ipynb and the frontend folder by William Swain
+Code in ParcelClassification.ipynb, webapp.ipynb, and the frontend folder by William Swain
 <br>
 Code in Vision_Transformer.ipynb by Zain Mirza 
 <br>
