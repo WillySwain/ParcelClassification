@@ -14,7 +14,7 @@ function App() {
               <Link to="/">Home</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/results">Results</Link>
             </li>
             <li>
               <Link to="/demo">Demo</Link>
@@ -25,7 +25,7 @@ function App() {
       <Routes>
         <Route exact path="/" element={<Home />} />
         <Route path="/demo" element={<GradioInterface />} />
-        <Route path="/about" element={<About />} />
+        <Route path="/results" element={<Results />} />
       </Routes>
     </Router>
   );
