@@ -1,11 +1,13 @@
 import React from 'react';
+import { Gradio } from '@gradio/react';
 
 function GradioInterface() {
   return (
-    <iframe
+    <Gradio
+      interface="sidebar"
       src="https://huggingface.co/spaces/WillySwain/parcelgradio"
-      title="Parcel Classification"
-      style={{ width: '100%', height: '800px', border: 'none' }}
+      width="100%"
+      height="800px"
     />
   );
 }
