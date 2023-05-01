@@ -3,7 +3,7 @@
 }
 
 nav {
-  background-image: linear-gradient(to right ,rgb(77, 20, 20));
+  background-image: linear-gradient(to right ,black,red, orange,red,orange,red,black);
   color: #fff;
 }
 h1 {

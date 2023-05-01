@@ -5,7 +5,7 @@ function About() {
     <div>
       <h1>Results</h1>
       <h2>Result Analysis</h2>
-      <img src={table} alt="A table of evaluation metrics" width="1000000" height="500000" />
+      <img src={table} alt="A table of evaluation metrics" width="1000" height="500" />
       <p>Currently, VGG19 has the highest accuracy, recall, and F1-Score of
         all the models. These are the highest priority evaluation metrics, so
         VGG19 is the best model so far for the task of classifying parcels.
