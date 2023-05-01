@@ -5,9 +5,7 @@ function GradioInterface() {
 <iframe
 	src="https://willyswain-parcelgradio.hf.space"
   title="Parcel Classification"
-	frameborder="0"
-	width="850"
-	height="450"
+	style={{ width: '100%', height: '800px', border: 'none' }}
 ></iframe>
   );
 }
