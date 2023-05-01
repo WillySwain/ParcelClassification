@@ -16,8 +16,8 @@
 ### For Vision Transformer:
 #### 1. No special steps required, simply run all the python notebook cells and everything should work
 
-#### For website:
-##### Simply navigate to https://parcelclassification.netlify.app/ in a browser.
+### For website:
+#### Simply navigate to https://parcelclassification.netlify.app/ in a browser.
 <br>
 If you would like to start with new uncleaned data, delete startingdata, uncomment all of the crawl calls, and run the first cell. 
 <br><br>
