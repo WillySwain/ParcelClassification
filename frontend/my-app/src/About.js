@@ -27,8 +27,8 @@ function About() {
         can be found in the future work section.</p>
       <h2>Conclusion</h2>
       <p>According to the results obtained, VGG is currently the best model
-        for the specific task of classifying good and bad parcels, outper-
-        forming ResNet50 and YOLOv5 in every evaluation metric except
+        for the specific task of classifying good and bad parcels, 
+        outperforming ResNet50 and YOLOv5 in every evaluation metric except
         for specificity. However, it is important to note that the leading
         model may change as we continue to fine-tune these models and
         implement the VisualBERT model. Overall, we are confident that
