@@ -35,6 +35,7 @@ function About() {
         by continuously improving and fine-tuning the models, we will be
         able to achieve even better performance and accuracy in classifying
         good and bad parcels.</p>
+      <h3>Links</h3>
     </div>
   );
 }
