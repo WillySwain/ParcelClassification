@@ -1,6 +1,6 @@
 import React from 'react';
 import teaser from './teaserimg.png';
-import pipeline from './pipeline.png';
+//import pipeline from './pipeline.png';
 
 function Home() {
   return (
@@ -14,9 +14,9 @@ function Home() {
       <h2>Motivation</h2>
       <p>Sending out damaged parcels to customers will require companies to reship the products, and this unnecessary trip will cost the company. This classification will also serve as evidence to determine liability and battle cases of fraud. Classifying whether a parcel is good before it leaves the warehouse is critical to cost-efficient shipping.</p>
       
-      <h2>Pipeline</h2>
+      {/* <h2>Pipeline</h2>
       <p>The project follows the following pipeline: </p>
-      <img src={pipeline} alt="pipeline image" width="800" height="400" style={{alignSelf: 'center'}}/>
+      <img src={pipeline} alt="pipeline image" width="800" height="400" style={{alignSelf: 'center'}}/> */}
     </div>
   );
 }
