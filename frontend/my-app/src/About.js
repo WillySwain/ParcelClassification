@@ -35,7 +35,14 @@ function About() {
         by continuously improving and fine-tuning the models, we will be
         able to achieve even better performance and accuracy in classifying
         good and bad parcels.</p>
-      <h3>Links</h3>
+      <h2>Links</h2>
+      <h3>Link to the code</h3>
+      <a href = "https://github.com/WillySwain/ParcelClassification">link</a>
+      <h3>Link to the Final paper and Presentation</h3>
+      <a href = "https://drive.google.com/drive/u/2/folders/0AMwo_zukWvfuUk9PVA">link</a>
+
+
+
     </div>
   );
 }
