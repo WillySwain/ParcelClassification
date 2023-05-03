@@ -24,8 +24,8 @@ function App() {
       </div>
       <Routes>
         <Route exact path="/" element={<Home />} />
-        <Route path="/demo" element={<GradioInterface />} />
-        <Route path="/results" element={<About />} />
+        <Route exact path="/demo" element={<GradioInterface />} />
+        <Route exact path="/results" element={<About />} />
       </Routes>
     </Router>
   );
