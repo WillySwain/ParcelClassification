@@ -38,8 +38,11 @@ function About() {
       <h2>Links</h2>
       <h3>Link to the code</h3>
       <a href = "https://github.com/WillySwain/ParcelClassification">link</a>
-      <h3>Link to the Final paper and Presentation</h3>
-      <a href = "https://drive.google.com/drive/u/2/folders/0AMwo_zukWvfuUk9PVA">link</a>
+      <h3>Links to the Final paper and Presentation</h3>
+      <p>Final Presentation: </p>
+      <a href = "https://docs.google.com/presentation/d/1zRpbBgxLnSVcq5PfXLwKW-PT0JXl1l5ObE_PSvzau1U/edit?usp=sharing">link</a>
+      <p>Final Paper: </p>
+      <p>Awaiting</p>
 
 
 
