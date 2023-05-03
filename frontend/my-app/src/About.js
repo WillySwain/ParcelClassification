@@ -12,15 +12,15 @@ function About() {
         Although ResNet50 has a higher specificity score than VGG19, it is
         not an evaluation metric that holds much importance so this high
         value is insignificant. This is due to the specific task of classifying
-        good and bad packages, where it is much better to have a false pos-
-        itive and pulling a package off the line than to let a damaged one
+        good and bad packages, where it is much better to have a false 
+        positive and pulling a package off the line than to let a damaged one
         continue. Thus, it is better to mitigate false negatives by prioritizing
         recall than to mitigate false positives by prioritizing specificity.
         The performance of YOLOv5 is unsatisfactory, with low accuracy
         and recall rate being our primary concerns. We believe the root
         causes of these results are twofold. Firstly, our package labeling
-        is imprecise, and to improve accuracy, we plan to re-label our im-
-        ages. Secondly, we trained the model solely on the pre-trained
+        is imprecise, and to improve accuracy, we plan to re-label our images. 
+        Secondly, we trained the model solely on the pre-trained
         YOLOv5s.pt, which did not fit our data well and lacked detailed
         fine-tuning. We expect that fine-tuning will result in a significant
         performance boost. Detailed information on the fine-tuning process
@@ -37,10 +37,10 @@ function About() {
         good and bad parcels.</p>
       <h2>Links</h2>
       <h3>Link to the code</h3>
-      <a href = "https://github.com/WillySwain/ParcelClassification">link</a>
+      <a href = "https://github.com/WillySwain/ParcelClassification">Final code</a>
       <h3>Links to the Final paper and Presentation</h3>
       <p>Final Presentation: </p>
-      <a href = "https://docs.google.com/presentation/d/1zRpbBgxLnSVcq5PfXLwKW-PT0JXl1l5ObE_PSvzau1U/edit?usp=sharing">link</a>
+      <a href = "https://docs.google.com/presentation/d/1zRpbBgxLnSVcq5PfXLwKW-PT0JXl1l5ObE_PSvzau1U/edit?usp=sharing">Final Presentation</a>
       <p>Final Paper: </p>
       <p>Awaiting</p>
 
