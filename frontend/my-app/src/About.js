@@ -42,7 +42,8 @@ function About() {
       <p>Final Presentation: </p>
       <a href = "https://docs.google.com/presentation/d/1zRpbBgxLnSVcq5PfXLwKW-PT0JXl1l5ObE_PSvzau1U/edit?usp=sharing">Final Presentation</a>
       <p>Final Paper: </p>
-      <p>Awaiting</p>
+      <a href = "https://drive.google.com/file/d/1_2LInENtBbAqDmmyzuBWVWbk8MLCm9xu/view?usp=sharing">Final Paper</a>
+
 
 
 
